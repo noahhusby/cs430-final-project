@@ -4,7 +4,7 @@
 # cs430-final-project
 
 <p>
-  <b>Project to be defined. </b>
+  <b>An intelligent course planner. </b>
   <br/>
   ⚠️ This is part of a <a href="https://github.com/noahhusby/university"><strong>larger collection of projects</strong></a> for university. ⚠️
   <br/><br/>
