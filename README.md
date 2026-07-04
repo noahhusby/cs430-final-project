@@ -15,6 +15,8 @@
 
 ## Contributing Members
 - Noah Husby
+- Anna Gibes
+- Bolin Zhu
   
 ## Running the Program
 
