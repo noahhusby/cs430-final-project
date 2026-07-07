@@ -1,0 +1,6 @@
+Notes on runtime environment:
+- This was tested on macOS Tahoe 26.5.1
+- The program will function properly on any machine with the python runtime installed >=v3
+- No external dependencies are implemented so no additional instalations must take place.
+- `python ./planner.py` will launch the program assuming a local input.txt.
+- Additional parameters can be found in README.md
